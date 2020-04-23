@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'Pacifico';
+    src: url('Pacifico.ttf');
+
+}
+
+@font-face {
+    font-family: neucha;
+    src: url('neucha.ttf')
+}
+
+body {
+  background-color: rgb(163, 192, 202);
+}
+h1{
+    color:#5f021f
+}
+h1{
+    font-family: Pacifico;
+    font-size: 30px;
+}
+
+body{
+    font-family: neucha;
+    font-size: 25px;
+    color: #a47;
+}
